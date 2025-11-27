@@ -115,22 +115,24 @@
 
 <br/>
 
-<h2 align="center"><img src="https://cdn.simpleicons.org/github/181717" width="28"/> GitHub Statistics</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px">
+  GitHub Stats
+</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sanjay-nithin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats"/>
+  <a href="https://github.com/Sanjay-nithin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanjay-nithin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-nithin&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&card_width=320"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-nithin&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=0d1117&area=true&hide_border=true&title_color=58a6ff" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-nithin&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/Sanjay-nithin">
+    <img src="https://streak-stats.demolab.com/?user=Sanjay-nithin&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=1F6FEB&currStreakNum=C9D1D9&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
