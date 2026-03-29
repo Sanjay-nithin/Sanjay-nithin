@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://drive.google.com/file/d/1Cc-ESE7jyALXdAUhGYxHjU2lAtjYmAZg/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1Cc-ESE7jyALXdAUhGYxHjU2lAtjYmAZg/view?usp=sharing" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge" alt="Resume"/>
   </a>
 </p>
 
