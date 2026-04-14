@@ -10,7 +10,7 @@
   <a href="http://www.linkedin.com/in/sanjay-nithin-s-0522bb326">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/u/ads_230126/">
+  <a href="https://leetcode.com/u/Sanjay-Nithin/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="LeetCode"/>
   </a>
   <a href="mailto:sanjaynithin220@gmail.com">
