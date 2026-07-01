@@ -29,7 +29,7 @@
 
 ## <img src="https://cdn.simpleicons.org/iconify/1769AA" width="28"/> About Me
 
-- <img src="https://cdn.simpleicons.org/educative/FFFFFF" width="16"/> 3rd-year **AI & Data Science** student
+- <img src="https://cdn.simpleicons.org/educative/FFFFFF" width="16"/> Final Year **AI & Data Science** student
 - <img src="https://cdn.simpleicons.org/googlescholar/FFFFFF" width="16"/> **Sri Shakthi Institute of Engineering and Technology**, Coimbatore  
 - <img src="https://cdn.simpleicons.org/tensorflow/FFFFFF" width="16"/> Building ML models and exploring AI technologies
 - <img src="https://cdn.simpleicons.org/leetcode/FFFFFF" width="16"/> Solving algorithmic challenges on LeetCode
