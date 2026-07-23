@@ -16,7 +16,7 @@
   <a href="mailto:sanjaynithin220@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
-  <a href="https://drive.google.com/file/d/1Cc-ESE7jyALXdAUhGYxHjU2lAtjYmAZg/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/131wDwjgb6oiJDj4ENJvJC4Rna1X9v4pP/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4285F4?logo=googledrive&logoColor=white&style=for-the-badge" alt="Resume"/>
   </a>
 </p>
